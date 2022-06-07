@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yang-ST/Yang-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,6 @@ Here are some ideas to get you started:
 ## Github stats & metrics
 ![Yang-ST's github stats](https://github-readme-stats.vercel.app/api?username=Yang-ST&count_private=true&show_icons=true)
 
-![matrics](https://metrics.lecoq.io/Yang-ST?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/Yang-ST/count.svg)
