@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 ## Github stats & metrics
 ![Yang-ST's github stats](https://github-readme-stats.vercel.app/api?username=Yang-ST&count_private=true&show_icons=true)
 
+## 贡献
+![代码贡献](https://activity-graph.herokuapp.com/graph?username=Yang-ST)
+
+## Language
+![语言偏好](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-ST&layout=compact)
 
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/Yang-ST/count.svg)
