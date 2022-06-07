@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+## Github stats & metrics
+![Yang-ST's github stats](https://github-readme-stats.vercel.app/api?username=Yang-ST&count_private=true&show_icons=true)
+
+![matrics](https://metrics.lecoq.io/Yang-ST?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
