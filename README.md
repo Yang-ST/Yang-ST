@@ -12,4 +12,5 @@
 None
 
 ### 游客统计（Visit Count）
-![Visitor Count](https://profile-counter.glitch.me/Yang-ST/count.svg)
+![](https://komarev.com/ghpvc/?username=Yang-ST&color=brightgreen)
+
