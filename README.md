@@ -12,5 +12,5 @@
 None
 
 ### 游客统计（Visit Count）
-![](https://komarev.com/ghpvc/?username=Yang-ST&color=brightgreen)
+![游客统计](https://komarev.com/ghpvc/?username=Yang-ST&color=brightgreen)
 
